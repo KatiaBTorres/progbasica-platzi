@@ -1,2 +1,3 @@
-# progbasica-platzi
-Primeros proyectos de programación en JS (Platzi)
+Programación Básica
+Primeros Proyectos de Platzi. 
+Uso de lenguaje JS.
